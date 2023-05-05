@@ -12,7 +12,7 @@ Create serverless Telegram bot using [Cloudflare Workers](https://workers.cloudf
 ### Create a Cloudflare Worker
 
 1. Create a new [Cloudflare Workers](https://workers.cloudflare.com/)
-2. Set a custom domain for your worker. This must be done since Telegram bot webhook API is not compatible with the SSL certifiacte of Cloudflare Workers' default domain (`https://<worker-name>.<your-account>.workers.dev`)
+2. Set a custom domain for your worker. This must be done since Telegram bot webhook API is not compatible with the SSL certificate of Cloudflare Workers' default domain (`https://<worker-name>.<your-account>.workers.dev`)
 
 ### Deploy the Code
 

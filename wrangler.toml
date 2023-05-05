@@ -1,4 +1,4 @@
-name = "telegram-bot-on-worker"
+name = "bot"
 main = "src/index.ts"
 compatibility_date = "2023-05-02"
 workers_dev = false
